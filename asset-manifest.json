@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vinitaamratiya01/feedback-form/static/css/main.2bdfc2bb.css",
+    "main.js": "/vinitaamratiya01/feedback-form/static/js/main.e6ffb71c.js",
+    "static/js/787.b5870b0c.chunk.js": "/vinitaamratiya01/feedback-form/static/js/787.b5870b0c.chunk.js",
+    "index.html": "/vinitaamratiya01/feedback-form/index.html",
+    "main.2bdfc2bb.css.map": "/vinitaamratiya01/feedback-form/static/css/main.2bdfc2bb.css.map",
+    "main.e6ffb71c.js.map": "/vinitaamratiya01/feedback-form/static/js/main.e6ffb71c.js.map",
+    "787.b5870b0c.chunk.js.map": "/vinitaamratiya01/feedback-form/static/js/787.b5870b0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bdfc2bb.css",
+    "static/js/main.e6ffb71c.js"
+  ]
+}
